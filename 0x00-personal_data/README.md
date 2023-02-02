@@ -2,7 +2,7 @@
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncwRuuGEKjHC66KHl5hF0t-Sz0of-qY-4OA&usq' width='100%'/>
 
 ---
-This task directory contains differe task to understand how python logging facility works and how encrypt a user personal data using bcrypt.
+This task directory contains differe task to understand how python logging facility works and how to encrypt a user personal data using bcrypt.
 
 - User management is an organizational function that enables users to access and control digital assets, such as applications, devices, networks, and cloud services. 
 
