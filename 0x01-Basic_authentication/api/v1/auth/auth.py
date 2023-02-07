@@ -2,7 +2,7 @@
 '''authentication module
 '''
 import re
-from flask import request as req
+from flask import request
 from typing import List, TypeVar
 
 
