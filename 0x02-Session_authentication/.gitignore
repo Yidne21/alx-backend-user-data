@@ -1,0 +1,4 @@
+__pycache__
+.env
+sessionAuth
+.db_User.json
