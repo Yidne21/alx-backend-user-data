@@ -44,3 +44,4 @@ class SessionAuth(Auth):
         if session_id in self.user_id_by_session_id:
             del self.user_id_by_session_id[session_id]
         return True
+
